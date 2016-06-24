@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="DVDemoAppV5634" name="DVDemoAppV5634">
+    <container isflex="false" displayname="Form" id="frmDemo" type="form"/>
+    <container isflex="false" displayname="Form" id="frmFinanceChart" type="form"/>
+    <container isflex="false" displayname="Form" id="frmMenu" type="form"/>
+    <container isflex="false" displayname="Form" id="frmMiscDemo" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSpalshScreen" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

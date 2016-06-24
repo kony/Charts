@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="ChartsDemoApp" id="ChartsDemoApp">
+    <container type="form" id="frmDemo" displayname="Form"/>
+    <container type="form" id="frmFinanceChart" displayname="Form"/>
+    <container type="form" id="frmMenu" displayname="Form"/>
+    <container type="form" id="frmMiscDemo" displayname="Form"/>
+    <container type="form" id="frmSpalshScreen" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>

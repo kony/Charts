@@ -1,0 +1,97 @@
+{
+    "DNDConfig": null,
+    "_enabled_": false,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "s6f900e00ac6411985f45657ca3555be",
+    "_text_": "Week",
+    "android": {
+        "@class": "com.kony.gen.viz.model.component.property.button.AndroidButtonProperty",
+        "displayText": true,
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 33,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc27146d16af4d088cd1854cccd87c6a",
+    "hexpand": true,
+    "id": "button19329606361810",
+    "ide_onClick": "p2kwiet12650671921402_button19329606361810_onClick_seq0",
+    "info": null,
+    "ipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.IPadButtonProperty",
+        "displayText": true,
+        "psp": {
+            "glowEffect": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "p2kwiet12650671921394",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "hbox19329606361798",
+    "pf": "frmFinanceChart",
+    "spa": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAButtonProperty",
+        "displayText": true
+    },
+    "spaandroidtablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAAndroidTabletButtonProperty",
+        "render": true
+    },
+    "spaipad": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAIPadButtonProperty",
+        "render": true
+    },
+    "spawindowstablet": {
+        "@class": "com.kony.gen.viz.model.component.property.button.SPAWindowsTabletButtonProperty",
+        "render": true
+    },
+    "vexpand": false,
+    "wType": "Button",
+    "widgetalignment": 5,
+    "windows8": {
+        "@class": "com.kony.gen.viz.model.component.property.button.Windows8ButtonProperty",
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "displayText": true,
+        "margin": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "marginInPixel": true,
+        "padding": [
+            5,
+            5,
+            5,
+            5
+        ],
+        "paddingInPixel": true,
+        "render": true
+    }
+}

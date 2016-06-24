@@ -1,0 +1,21 @@
+{
+    "p2kwiet12650671921388_segUIDemoList_onRowClick_seq0": {
+        "id": "p2kwiet12650671921388_segUIDemoList_onRowClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "sectionNumber",
+            "value": "sectionNumber"
+        }, {
+            "name": "rowNumber",
+            "value": "rowNumber"
+        }],
+        "actions": [{
+            "id": "expression_onRowClick_668312650671928152",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDemoObject.onSegRowClick(eventobject, sectionNumber, rowNumber);"
+        }]
+    }
+}

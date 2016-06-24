@@ -1,0 +1,19 @@
+{
+    "p2kwiet12650671921412_frmMenu_init_seq0": {
+        "id": "p2kwiet12650671921412_frmMenu_init_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "actions": [{
+            "id": "customcode_init_5122012650671921607",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addMenuItemsToForm",
+            "display": "addMenuItemsToForm"
+        }]
+    }
+}

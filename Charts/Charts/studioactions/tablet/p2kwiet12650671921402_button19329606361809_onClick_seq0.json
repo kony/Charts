@@ -1,0 +1,16 @@
+{
+    "p2kwiet12650671921402_button19329606361809_onClick_seq0": {
+        "id": "p2kwiet12650671921402_button19329606361809_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_onClick_3040412650671928240",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "func_112_demo_frm013FinanceChartForm_onClick_Comparision",
+            "display": "func_112_demo_frm013FinanceChartForm_onClick_Comparision"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "p2kwiet12650671921419_frmSpalshScreen_postshow_seq0": {
+        "id": "p2kwiet12650671921419_frmSpalshScreen_postshow_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "neworientation",
+            "value": "neworientation"
+        }],
+        "actions": [{
+            "id": "navigation_postshow_2714012650671928826",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMenu",
+            "formKUID": "p2kwiet12650671921412",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "enableMappingEditor": true
+        }]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "p2kwiet12650671921412_browser_onFailure_seq0": {
+        "id": "p2kwiet12650671921412_browser_onFailure_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "expression_onFailure_7558412650671923695",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Unable To Load Chart Documentation. Please Check Your Network Connection\");"
+        }]
+    }
+}

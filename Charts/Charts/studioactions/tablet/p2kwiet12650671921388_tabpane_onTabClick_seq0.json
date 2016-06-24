@@ -1,0 +1,29 @@
+{
+    "p2kwiet12650671921388_tabpane_onTabClick_seq0": {
+        "id": "p2kwiet12650671921388_tabpane_onTabClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }, {
+            "name": "currentindex",
+            "value": "currentindex"
+        }, {
+            "name": "isexpanded",
+            "value": "isexpanded"
+        }],
+        "actions": [{
+            "id": "customcode_onTabClick_7664612650671923142",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmDemo_OnTabClick",
+            "display": "frmDemo_OnTabClick",
+            "inputparams": [{
+                "name": "args",
+                "value": " eventobject"
+            }, {
+                "name": "currentindex",
+                "value": " currentindex"
+            }]
+        }]
+    }
+}
